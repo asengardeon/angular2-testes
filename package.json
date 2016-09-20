@@ -1,0 +1,36 @@
+{
+  "name": "angular2-teste",
+  "version": "1.0.0",
+  "description": "Um projeto de teste para  alguns conceitos do angular2",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angula2",
+    "teste"
+  ],
+  "author": "leandro.battisti",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^2.0.0",
+    "@angular/compiler": "^2.0.0",
+    "@angular/core": "^2.0.0",
+    "@angular/platform-browser": "^2.0.0",
+    "@angular/platform-browser-dynamic": "^2.0.0",
+    "angular2": "^2.0.0-beta.17",
+    "es6-shim": "^0.35.0",
+    "gulp": "^3.9.1",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.0-beta.12",
+    "systemjs": "^0.19.38",
+    "zone.js": "^0.6.12"
+  },
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "gulp-rename": "1.2.2",
+    "gulp-traceur": "0.17.2",
+    "gulp-webserver": "0.9.1"
+  }
+}
